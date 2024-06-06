@@ -10,7 +10,7 @@ export default function Main(){
           Welcome to Mawyer's Game!
           <br/>
           <br/>
-          To play, you must guess a number, and not tell us what it is!
+          To play, you must guess a number from 1 to 31, and not tell us what it is!
           <br/>
           <br/>
           Then, there will be four cards, and tell us if your number is on the card, or not.
