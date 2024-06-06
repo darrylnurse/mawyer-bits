@@ -5,7 +5,7 @@ export default function Main(){
   const navigate = useNavigate();
 
   return (
-      <div className={"bg-amber-100 text-center font-bold text-3xl flex flex-col gap-8 justify-evenly p-24 items-center h-screen"}>
+      <div className={"bg-amber-100 text-center font-bold text-xl lg:text-3xl flex flex-col gap-0 lg:gap-8 justify-evenly p-12 lg:p-24 items-center h-screen"}>
         <div>
           Welcome to Mawyer's Game!
           <br/>

@@ -6,7 +6,7 @@ export default function Result(){
   const navigate = useNavigate();
 
   return (
-      <div className={"flex flex-col h-screen justify-evenly p-24 items-center font-bold text-4xl"}>
+      <div className={"flex flex-col h-screen justify-evenly p-24 text-center items-center font-bold text-4xl"}>
 
         <div>Your number was {number}!</div>
 
